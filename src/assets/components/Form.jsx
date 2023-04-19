@@ -1,5 +1,5 @@
 import { useState } from "react"
-import useWeather from "../Hooks/useWeather"
+import useWeather from "../hooks/useWeather"
 
 
 

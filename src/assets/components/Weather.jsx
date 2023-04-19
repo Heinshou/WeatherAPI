@@ -1,7 +1,7 @@
 import Form from "./Form"
 import Result from './Result'
 import Loading from './Loading'
-import useWeather from "../Hooks/useWeather"
+import useWeather from "../hooks/useWeather"
 
 const WeatherApp = () => {
 
