@@ -1,4 +1,4 @@
-import useWeather from "../Hooks/useWeather";
+import useWeather from "../hooks/useWeather";
 
 const Result = () => {
 
